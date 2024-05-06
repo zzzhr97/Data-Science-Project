@@ -5,7 +5,7 @@ See [Task Requirements](./Task-Requirements.pdf).
 
 ## Run
 ### Download Dataset
-Download dataset to `./dataset/`, the path will look like `./dataset/Animals_with_Attributes2/Extracted_Features/....`.
+Download the total dataset to `./dataset/` from [AwA2 dataset](https://cvml.ist.ac.at/AwA2/), the path will look like `./dataset/Animals_with_Attributes2/JPEGImages/....`.
 
 ### Extracting Local Descriptors
 #### SIFT
