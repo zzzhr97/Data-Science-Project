@@ -1,0 +1,28 @@
+[kernel: poly] [C: 0.001] [Max Dim: 256]
+	acc: 0.0717, f1: 0.0332, recall: 0.0717, train time: 56.0303, test time: 68.1020
+[kernel: poly] [C: 0.01] [Max Dim: 256]
+	acc: 0.4158, f1: 0.4793, recall: 0.4158, train time: 45.9294, test time: 61.0113
+[kernel: poly] [C: 0.1] [Max Dim: 256]
+	acc: 0.6708, f1: 0.7184, recall: 0.6708, train time: 26.9667, test time: 40.9697
+[kernel: poly] [C: 1.0] [Max Dim: 256]
+	acc: 0.7718, f1: 0.7939, recall: 0.7718, train time: 16.9289, test time: 24.5209
+[kernel: poly] [C: 10.0] [Max Dim: 256]
+	acc: 0.8143, f1: 0.8314, recall: 0.8143, train time: 13.3660, test time: 20.8692
+[kernel: poly] [C: 100.0] [Max Dim: 256]
+	acc: 0.8302, f1: 0.8404, recall: 0.8302, train time: 12.2644, test time: 23.3948
+[kernel: poly] [C: 1000.0] [Max Dim: 256]
+	acc: 0.8360, f1: 0.8432, recall: 0.8360, train time: 11.9561, test time: 21.4408
+[kernel: rbf] [C: 0.001] [Max Dim: 256]
+	acc: 0.0441, f1: 0.0037, recall: 0.0441, train time: 66.1802, test time: 102.0132
+[kernel: rbf] [C: 0.01] [Max Dim: 256]
+	acc: 0.6592, f1: 0.6406, recall: 0.6592, train time: 56.6983, test time: 93.8437
+[kernel: rbf] [C: 0.1] [Max Dim: 256]
+	acc: 0.8428, f1: 0.8373, recall: 0.8428, train time: 21.2368, test time: 55.1558
+[kernel: rbf] [C: 1.0] [Max Dim: 256]
+	acc: 0.8701, f1: 0.8683, recall: 0.8701, train time: 11.0814, test time: 38.9680
+[kernel: rbf] [C: 10.0] [Max Dim: 256]
+	acc: 0.8731, f1: 0.8726, recall: 0.8731, train time: 10.0400, test time: 38.3709
+[kernel: rbf] [C: 100.0] [Max Dim: 256]
+	acc: 0.8677, f1: 0.8676, recall: 0.8677, train time: 10.0414, test time: 38.4689
+[kernel: rbf] [C: 1000.0] [Max Dim: 256]
+	acc: 0.8658, f1: 0.8658, recall: 0.8658, train time: 10.0479, test time: 38.2275

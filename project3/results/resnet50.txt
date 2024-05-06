@@ -1,0 +1,36 @@
+Epoch 0: 0.4643 [model saved]
+Epoch 1: 0.7582 [model saved]
+Epoch 2: 0.8059 [model saved]
+Epoch 3: 0.8364 [model saved]
+Epoch 4: 0.8522 [model saved]
+Epoch 5: 0.8552 [model saved]
+Epoch 6: 0.8691 [model saved]
+Epoch 7: 0.8736 [model saved]
+Epoch 8: 0.8716
+Epoch 9: 0.8755 [model saved]
+Epoch 0: 0.4853 [model saved]
+Epoch 1: 0.7441 [model saved]
+Epoch 2: 0.8082 [model saved]
+Epoch 3: 0.8301 [model saved]
+Epoch 4: 0.8507 [model saved]
+Epoch 5: 0.8623 [model saved]
+Epoch 6: 0.8691 [model saved]
+Epoch 7: 0.8729 [model saved]
+Epoch 8: 0.8773 [model saved]
+Epoch 9: 0.8793 [model saved]
+Epoch 10: 0.8800 [model saved]
+Epoch 11: 0.8839 [model saved]
+Epoch 12: 0.8843 [model saved]
+Epoch 13: 0.8876 [model saved]
+Epoch 14: 0.8897 [model saved]
+Epoch 15: 0.8886
+Epoch 16: 0.8869
+Epoch 17: 0.8879
+Epoch 18: 0.8899 [model saved]
+Epoch 19: 0.8895
+Epoch 20: 0.8868
+Epoch 21: 0.8860
+Epoch 22: 0.8897
+Epoch 23: 0.8891
+Epoch 24: 0.8855
+Epoch 25: 0.8899
